@@ -15,7 +15,7 @@ View the full dashboard here:
 ## Medium Article
 
 View the article here: 
-[Exploring the Greatest Songs of All Time on Spotify](https://medium.com/@poojanair5919/exploring-the-greatest-songs-of-all-time-on-spotify-53a41bab3823)
+[Exploring the Greatest Songs of All Time on Spotify - Medium Article](https://medium.com/@poojanair5919/exploring-the-greatest-songs-of-all-time-on-spotify-53a41bab3823)
 
 ## Connect
 
